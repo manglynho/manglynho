@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫 About Me :
 💻 Fan of clean code, algorithms and agile methodologies.
 👷 Responsible and good team player with a strong procedural and analytical thinking able to adapt fast to changes on the environment and the technologies. 
 🎓 Well professional education with a Honors Bachelor degree in Computer Science.
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manglynho&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manglynho&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manglynho&icon=2&color=0)](https://visitcount.itsvg.in)
