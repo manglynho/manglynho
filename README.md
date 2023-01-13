@@ -12,7 +12,7 @@
 | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=manglynho&theme=vue&hide_border=true) |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?user=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manglynho&icon=2&color=0)](https://visitcount.itsvg.in)
