@@ -11,9 +11,9 @@
 # 📊GitHub Stats :
 | ![](https://github-readme-stats.vercel.app/api?username=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=manglynho&theme=vue&hide_border=true) |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manglynho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=manglynho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?user=manglynho&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manglynho&icon=2&color=0)](https://visitcount.itsvg.in)
